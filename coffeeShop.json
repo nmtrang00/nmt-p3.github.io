@@ -9,8 +9,9 @@
     "coffee":[
        "House espresso",
        "Guest espresso",
-       "Single origin",
-       "House blend"
+       "House blend",
+       "Single origin"
+       
     ],
     "size":[
        "Single",
